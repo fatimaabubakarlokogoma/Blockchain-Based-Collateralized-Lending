@@ -5,3 +5,5 @@ T
 $contracts/borrower-verification.clar,3/6/36f8550b96b2ba3cd05257c00c36da7c32cfe8de
 S
 #contracts/collateral-valuation.clar,a/7/a785ad9205a1c9d30c6c4ad91867ec9d7d3ca068
+J
+contracts/liquidation.clar,9/1/91d73d8895d968e85fc1de384f96354cc974a7dc
